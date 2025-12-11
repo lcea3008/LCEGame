@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 5c3afb4679f1d404bb0b6b2ec1d32f3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3462303856501724212
+    second: johnwick all_0
+  - first:
+      213: -7600633934437650386
+    second: johnwick all_1
+  - first:
+      213: -4038818663899053386
+    second: johnwick all_2
+  - first:
+      213: 8170420874669044122
+    second: johnwick all_3
+  - first:
+      213: 8504803213399865891
+    second: johnwick all_4
+  - first:
+      213: -2340753300333377453
+    second: johnwick all_5
+  - first:
+      213: -6382227292375199965
+    second: johnwick all_6
+  - first:
+      213: -823095876264409214
+    second: johnwick all_7
+  - first:
+      213: 8176123547791056117
+    second: johnwick all_8
+  - first:
+      213: -4639508160671369884
+    second: johnwick all_9
+  - first:
+      213: -5911090495324155589
+    second: johnwick all_10
+  - first:
+      213: -2417964492802186988
+    second: johnwick all_11
+  - first:
+      213: -7643905824671390031
+    second: johnwick all_12
+  - first:
+      213: 6908009022101234767
+    second: johnwick all_13
+  - first:
+      213: 1055941886649127841
+    second: johnwick all_14
+  - first:
+      213: -2868847726932107614
+    second: johnwick all_15
+  - first:
+      213: -356185325476681833
+    second: johnwick all_16
+  - first:
+      213: -9216216111434428443
+    second: johnwick all_17
+  - first:
+      213: 1754169242412290802
+    second: johnwick all_18
+  - first:
+      213: -6849331168121947659
+    second: johnwick all_19
+  - first:
+      213: -234658943531314272
+    second: johnwick all_20
+  - first:
+      213: -8143320811603860377
+    second: johnwick all_21
+  - first:
+      213: 6380150429474359348
+    second: johnwick all_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: johnwick all_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434104f63039c0030800000000000000
+      internalID: 3462303856501724212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20701ed4bf158690800000000000000
+      internalID: -7600633934437650386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 21
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b24412e2db33f7c0800000000000000
+      internalID: -4038818663899053386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 21
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91b51c2f7a236170800000000000000
+      internalID: 8170420874669044122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 21
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32abc435671270670800000000000000
+      internalID: 8504803213399865891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 21
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3584ec27649f38fd0800000000000000
+      internalID: -2340753300333377453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 21
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f4c229716cd67a0800000000000000
+      internalID: -6382227292375199965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 21
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287cb2759a6c394f0800000000000000
+      internalID: -823095876264409214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 21
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcdac93c0d677170800000000000000
+      internalID: 8176123547791056117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 21
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46538a6b8e72d9fb0800000000000000
+      internalID: -4639508160671369884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 21
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b311407438697fda0800000000000000
+      internalID: -5911090495324155589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 21
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411a40fca1aa17ed0800000000000000
+      internalID: -2417964492802186988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_12
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 21
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b62cefc6246be590800000000000000
+      internalID: -7643905824671390031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_13
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 36
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44a98bfa9d2edf50800000000000000
+      internalID: 6908009022101234767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_14
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 21
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a35d212d8577ae00800000000000000
+      internalID: 1055941886649127841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_15
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 21
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae5681313ecf28d0800000000000000
+      internalID: -2868847726932107614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_16
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 21
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79761c865539e0bf0800000000000000
+      internalID: -356185325476681833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_17
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 21
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef08b8b64c691080800000000000000
+      internalID: -9216216111434428443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_18
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 21
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f296e9c1af085810800000000000000
+      internalID: 1754169242412290802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_19
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 23
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f97417879942f0a0800000000000000
+      internalID: -6849331168121947659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_20
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 21
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a392732fe25ebcf0800000000000000
+      internalID: -234658943531314272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_21
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 21
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7646e44fddc1dfe80800000000000000
+      internalID: -8143320811603860377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnwick all_22
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 21
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438006a1309da8850800000000000000
+      internalID: 6380150429474359348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      johnwick all_0: 3462303856501724212
+      johnwick all_1: -7600633934437650386
+      johnwick all_10: -5911090495324155589
+      johnwick all_11: -2417964492802186988
+      johnwick all_12: -7643905824671390031
+      johnwick all_13: 6908009022101234767
+      johnwick all_14: 1055941886649127841
+      johnwick all_15: -2868847726932107614
+      johnwick all_16: -356185325476681833
+      johnwick all_17: -9216216111434428443
+      johnwick all_18: 1754169242412290802
+      johnwick all_19: -6849331168121947659
+      johnwick all_2: -4038818663899053386
+      johnwick all_20: -234658943531314272
+      johnwick all_21: -8143320811603860377
+      johnwick all_22: 6380150429474359348
+      johnwick all_3: 8170420874669044122
+      johnwick all_4: 8504803213399865891
+      johnwick all_5: -2340753300333377453
+      johnwick all_6: -6382227292375199965
+      johnwick all_7: -823095876264409214
+      johnwick all_8: 8176123547791056117
+      johnwick all_9: -4639508160671369884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
