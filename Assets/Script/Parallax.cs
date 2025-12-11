@@ -2,25 +2,39 @@ using UnityEngine;
 
 public class Parallax : MonoBehaviour
 {
-    public Transform player;       // El jugador a seguir
-    public float parallaxFactor = 0.5f; // Qué tan rápido se mueve el fondo (0 = fijo, 1 = igual al jugador)
+    public Transform cam;              // Cámara
+    public float parallaxSpeed = 0.5f; // 0 = fijo / 1 = se mueve igual que la cámara
 
-    private Vector3 startPos;
+    private float length;    // Ancho del sprite
+    private float startPos;  // Posición inicial del sprite
 
     void Start()
     {
-        if (player == null)
-            player = GameObject.FindGameObjectWithTag("Player").transform; // Buscar al jugador por tag
+        startPos = transform.position.x;
 
-        startPos = transform.position;
+        SpriteRenderer sr = GetComponent<SpriteRenderer>();
+        if (sr == null)
+            sr = GetComponentInChildren<SpriteRenderer>();
+
+        length = sr.bounds.size.x;
     }
 
     void Update()
     {
-        // Movimiento del fondo proporcional al del jugador
-        float distX = player.position.x * parallaxFactor;
-        float distY = player.position.y * parallaxFactor * 0.5f; // opcional, menos movimiento vertical
+        // Movimiento parallax
+        float dist = cam.position.x * parallaxSpeed;
+        float temp = cam.position.x * (1 - parallaxSpeed);
 
-        transform.position = new Vector3(startPos.x + distX, startPos.y + distY, transform.position.z);
+        transform.position = new Vector3(startPos + dist, transform.position.y, transform.position.z);
+
+        // Scroll infinito
+        if (temp > startPos + length)
+        {
+            startPos += length;
+        }
+        else if (temp < startPos - length)
+        {
+            startPos -= length;
+        }
     }
 }

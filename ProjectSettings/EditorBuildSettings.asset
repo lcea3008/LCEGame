@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c4b67bcfff91cfa46bd5bf60bfb9e192
+  - enabled: 1
     path: Assets/Scenes/playa.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/desastre.unity
+    guid: 74929e34a348f6d4e8cfe474d9689804
+  - enabled: 1
+    path: Assets/Scenes/postapocalipsis.unity
+    guid: beabd386b3009364396118f72d89433c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
